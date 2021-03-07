@@ -1,0 +1,10 @@
+{
+    "task" : "update",
+    "operation" : {
+        "table" : "trial",
+        "data" : {
+            "value" : 4,
+            "updatedValue" : 5
+        }
+    }
+}
